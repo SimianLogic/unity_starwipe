@@ -19,4 +19,5 @@ animate the texture sizes so that the star "expands" instead of scaling it up (t
 
 
 THE DREAM
+====================================================
 just have a script that takes two cameras and a 0-1 slider value and starwipes between the two cameras (not sure if this achievable w/o RenderTextures ATM)
